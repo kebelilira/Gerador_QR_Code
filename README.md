@@ -1,8 +1,8 @@
-📌 DESCRIÇÃO
+##📌 DESCRIÇÃO
         
         O Gerador de QR Code é um aplicativo desktop desenvolvido em Python que permite criar QR Codes personalizados de forma rápida e intuitiva. Com uma interface amigável,           você pode gerar códigos QR para URLs, textos ou outras informações, com diversas opções de personalização.
 
-✨ FUNCIONALIDADES
+##✨ FUNCIONALIDADES
   
   ✅ Geração de QR Codes a partir de URLs ou texto
   
@@ -16,7 +16,7 @@
 
   🖼️ Interface intuitiva e fácil de usar
 
-🛠️ Tecnologias Utilizadas
+##🛠️ Tecnologias Utilizadas
   
   Python 3.x
 
@@ -26,10 +26,10 @@
 
   Biblioteca qrcode (para geração dos códigos QR)
 
-📦 REQUISITOS
+##📦 REQUISITOS
     Python 3.6 ou superior
 
-🚀 COMO USAR
+##🚀 COMO USAR
   Clone o repositório:
   ```
   bash
@@ -52,7 +52,7 @@ python qrcode_generator.py
 
   Salve o QR Code no local desejado
 
-🎨 PERSONALIZAÇÃO
+##🎨 PERSONALIZAÇÃO
 
   Você pode personalizar:
 
@@ -64,7 +64,7 @@ python qrcode_generator.py
 
   Borda ao redor do QR Code
 
-🤝 CONTRIBUIÇÃO
+##🤝 CONTRIBUIÇÃO
 
   Contribuições são bem-vindas! Sinta-se à vontade para:
 
@@ -74,6 +74,6 @@ python qrcode_generator.py
 
   Enviar pull requests
 
-📄 LICENÇA
+##📄 LICENÇA
     
   Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
