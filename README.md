@@ -2,7 +2,7 @@
         
         O Gerador de QR Code é um aplicativo desktop desenvolvido em Python que permite criar QR Codes personalizados de forma rápida e intuitiva. Com uma interface amigável,           você pode gerar códigos QR para URLs, textos ou outras informações, com diversas opções de personalização.
 
-##✨ FUNCIONALIDADES
+<br>✨ FUNCIONALIDADES</br>
   
   ✅ Geração de QR Codes a partir de URLs ou texto
   
