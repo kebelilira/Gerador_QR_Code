@@ -41,7 +41,7 @@
 
   Clone o repositório:
   
-          ```bash
+          
           git clone https://github.com/seu-usuario/qrcode-generator.git
           
   Instale as dependências:
@@ -50,7 +50,7 @@
    Execute o aplicativo:
    
           python qrcode_generator.py
-          ```
+          
    Insira a URL ou texto desejado
 
    Ajuste as configurações conforme necessário
