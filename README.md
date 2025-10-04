@@ -38,52 +38,53 @@
 ---
 
 ##🚀 COMO USAR
-    Clone o repositório:
+
+  Clone o repositório:
           ```bash
           git clone https://github.com/seu-usuario/qrcode-generator.git
           ```
-    Instale as dependências:
+  Instale as dependências:
           ```bash
           pip install -r requirements.txt
           ```
-    Execute o aplicativo:
+   Execute o aplicativo:
           ```bash
           python qrcode_generator.py
           ```
-    Insira a URL ou texto desejado
+   Insira a URL ou texto desejado
 
-    Ajuste as configurações conforme necessário
+   Ajuste as configurações conforme necessário
 
-    Clique em "Gerar QR Code"
+   Clique em "Gerar QR Code"
 
-    Salve o QR Code no local desejado
+   Salve o QR Code no local desejado
 
 ---
 
 ##🎨 PERSONALIZAÇÃO
 
-     Você pode personalizar:
+   Você pode personalizar:
         
-     Cores do QR Code (frente e fundo)
+   Cores do QR Code (frente e fundo)
         
-     Tamanho do QR Code
+   Tamanho do QR Code
         
-     Nome e local do arquivo de saída
+   Nome e local do arquivo de saída
         
-     Borda ao redor do QR Code
+   Borda ao redor do QR Code
 
 ---
 
 ##🤝 CONTRIBUIÇÃO
 
-     Contribuições são bem-vindas! Sinta-se à vontade para:
+   Contribuições são bem-vindas! Sinta-se à vontade para:
+   
+   Reportar problemas
 
-     Reportar problemas
+   Sugerir melhorias
 
-     Sugerir melhorias
-
-     Enviar pull requests
+   Enviar pull requests
 
 ##📄 LICENÇA
     
-     Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
+   Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
