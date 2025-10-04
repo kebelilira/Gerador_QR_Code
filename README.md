@@ -84,7 +84,3 @@
    Sugerir melhorias
 
    Enviar pull requests
-
-##📄 LICENÇA
-    
-   Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
