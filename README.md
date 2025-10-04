@@ -4,7 +4,7 @@
         
 ---
 
-<br>✨ FUNCIONALIDADES</br>
+✨ FUNCIONALIDADES
   
    ✅ Geração de QR Codes a partir de URLs ou texto
   
@@ -23,7 +23,7 @@
 ##🛠️ Tecnologias Utilizadas
   
    Python 3.x
-
+   
    Tkinter (para a interface gráfica)
 
    Biblioteca PIL (Python Imaging Library)
@@ -40,15 +40,15 @@
 ##🚀 COMO USAR
 
   Clone o repositório:
+  
           ```bash
           git clone https://github.com/seu-usuario/qrcode-generator.git
-          ```
+          
   Instale as dependências:
-          ```bash
+          
           pip install -r requirements.txt
-          ```
    Execute o aplicativo:
-          ```bash
+   
           python qrcode_generator.py
           ```
    Insira a URL ou texto desejado
